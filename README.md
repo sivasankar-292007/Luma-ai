@@ -1,6 +1,5 @@
-# ShopAssist AI
+# LUMA AI
 
-AI-powered e-commerce shopping assistant.
 
 ## Demo Live app
 
