@@ -3,4 +3,4 @@
 
 ## Demo Live app
 
-Link: (https://luma-ai.ai.studio)
+ [Link](https://luma-ai.ai.studio)
